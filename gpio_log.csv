@@ -50626,3 +50626,5 @@ test,device,signal,value,timestamp,delta
 ,raspberry-pi,gpio25,0,2026-04-23T17:27:27.811Z,300463
 ,raspberry-pi,gpio17,0,2026-04-23T17:30:22.295Z,300591
 ,raspberry-pi,gpio22,0,2026-04-23T17:31:33.136Z,300185
+,raspberry-pi,gpio25,0,2026-04-23T17:32:28.018Z,300207
+,raspberry-pi,gpio17,0,2026-04-23T17:35:22.735Z,300440
