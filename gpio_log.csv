@@ -54471,3 +54471,13 @@ test,device,signal,value,timestamp,delta
 ,raspberry-pi,gpio22,0,2026-04-24T13:01:21.079Z,300192
 ,raspberry-pi,gpio25,0,2026-04-24T13:01:45.113Z,300195
 ,raspberry-pi,gpio17,0,2026-04-24T13:05:59.400Z,300351
+,raspberry-pi,gpio22,0,2026-04-24T13:06:21.428Z,300349
+,raspberry-pi,gpio25,0,2026-04-24T13:06:45.464Z,300351
+,raspberry-pi,gpio17,1,2026-04-24T13:10:34.023Z,274620
+,raspberry-pi,gpio17,0,2026-04-24T13:10:39.172Z,5131
+,raspberry-pi,gpio17,1,2026-04-24T13:10:39.622Z,470
+,raspberry-pi,gpio17,0,2026-04-24T13:10:44.735Z,5107
+,raspberry-pi,gpio17,1,2026-04-24T13:10:55.577Z,10847
+,raspberry-pi,gpio23,0,2026-04-24T13:10:59.578Z,904051
+,raspberry-pi,gpio6,1,2026-04-24T13:11:00.452Z,904963
+,raspberry-pi,gpio17,0,2026-04-24T13:11:04.228Z,8522
