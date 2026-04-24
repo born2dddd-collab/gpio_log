@@ -53621,3 +53621,12 @@ test,device,signal,value,timestamp,delta
 ,raspberry-pi,gpio25,1,2026-04-24T11:57:27.528Z,300063
 ,raspberry-pi,gpio22,0,2026-04-24T12:01:15.787Z,300431
 ,raspberry-pi,gpio17,0,2026-04-24T12:01:19.797Z,300952
+,raspberry-pi,gpio25,1,2026-04-24T12:02:27.878Z,300350
+,raspberry-pi,gpio22,0,2026-04-24T12:06:16.135Z,300348
+,raspberry-pi,gpio17,0,2026-04-24T12:06:20.147Z,300350
+,raspberry-pi,gpio6,1,2026-04-24T12:06:51.941Z,1125527
+,raspberry-pi,gpio26,1,2026-04-24T12:06:51.985Z,1126328
+,raspberry-pi,gpio26,0,2026-04-24T12:06:52.176Z,7
+,raspberry-pi,gpio26,1,2026-04-24T12:06:52.728Z,736
+,raspberry-pi,gpio26,0,2026-04-24T12:06:52.860Z,5
+,raspberry-pi,gpio6,0,2026-04-24T12:06:52.864Z,1676
