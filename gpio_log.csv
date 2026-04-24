@@ -64301,3 +64301,17 @@ test,device,signal,value,timestamp,delta
 ,raspberry-pi,gpio10,0,2026-04-24T20:01:10.742Z,12885
 ,raspberry-pi,gpio17,0,2026-04-24T20:01:16.754Z,300589
 ,raspberry-pi,gpio10,1,2026-04-24T20:01:24.083Z,13035
+,raspberry-pi,gpio22,1,2026-04-24T20:01:39.381Z,34014
+,raspberry-pi,gpio22,0,2026-04-24T20:02:07.264Z,28142
+,raspberry-pi,gpio22,1,2026-04-24T20:02:09.410Z,2162
+,raspberry-pi,gpio10,0,2026-04-24T20:02:13.119Z,49340
+,raspberry-pi,gpio22,0,2026-04-24T20:02:32.177Z,22762
+,raspberry-pi,gpio10,1,2026-04-24T20:02:33.014Z,19908
+,raspberry-pi,gpio22,1,2026-04-24T20:03:06.172Z,34000
+,raspberry-pi,gpio22,0,2026-04-24T20:03:35.137Z,28949
+,raspberry-pi,gpio10,0,2026-04-24T20:03:36.417Z,63390
+,raspberry-pi,gpio25,0,2026-04-24T20:05:53.268Z,300358
+,raspberry-pi,gpio22,1,2026-04-24T20:06:09.909Z,154170
+,raspberry-pi,gpio17,0,2026-04-24T20:06:16.924Z,300170
+,raspberry-pi,gpio22,0,2026-04-24T20:06:23.840Z,14535
+,raspberry-pi,gpio10,1,2026-04-24T20:06:30.000Z,173596
