@@ -71714,3 +71714,17 @@ test,device,signal,value,timestamp,delta
 ,raspberry-pi,gpio25,0,2026-04-24T23:36:13.221Z,498
 ,raspberry-pi,gpio17,0,2026-04-24T23:36:13.812Z,4997
 ,raspberry-pi,gpio25,1,2026-04-24T23:36:14.218Z,1350
+,raspberry-pi,gpio10,1,2026-04-24T23:36:37.329Z,2452707
+,raspberry-pi,gpio10,0,2026-04-24T23:36:48.954Z,11608
+,raspberry-pi,gpio10,1,2026-04-24T23:36:57.534Z,8597
+,raspberry-pi,gpio10,0,2026-04-24T23:37:44.222Z,46674
+,raspberry-pi,gpio22,0,2026-04-24T23:37:53.306Z,300210
+,raspberry-pi,gpio22,1,2026-04-24T23:38:01.362Z,8056
+,raspberry-pi,gpio22,0,2026-04-24T23:38:56.634Z,55258
+,raspberry-pi,gpio22,1,2026-04-24T23:39:10.268Z,13644
+,raspberry-pi,gpio22,0,2026-04-24T23:39:13.622Z,3345
+,raspberry-pi,gpio22,1,2026-04-24T23:39:22.819Z,9210
+,raspberry-pi,gpio22,0,2026-04-24T23:40:15.888Z,53053
+,raspberry-pi,gpio17,0,2026-04-24T23:41:14.437Z,300635
+,raspberry-pi,gpio25,1,2026-04-24T23:41:14.443Z,300219
+,raspberry-pi,gpio22,1,2026-04-24T23:41:18.805Z,62929
