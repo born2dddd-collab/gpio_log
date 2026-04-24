@@ -63086,3 +63086,13 @@ test,device,signal,value,timestamp,delta
 ,raspberry-pi,gpio22,1,2026-04-24T18:15:52.008Z,62363
 ,raspberry-pi,gpio10,0,2026-04-24T18:16:24.857Z,55254
 ,raspberry-pi,gpio22,0,2026-04-24T18:16:38.611Z,46592
+,raspberry-pi,gpio10,1,2026-04-24T18:16:46.010Z,21159
+,raspberry-pi,gpio22,1,2026-04-24T18:17:07.585Z,28985
+,raspberry-pi,gpio10,0,2026-04-24T18:17:37.445Z,50684
+,raspberry-pi,gpio22,0,2026-04-24T18:17:37.944Z,30349
+,raspberry-pi,gpio10,1,2026-04-24T18:18:10.985Z,34291
+,raspberry-pi,gpio17,0,2026-04-24T18:18:58.355Z,300588
+,raspberry-pi,gpio10,0,2026-04-24T18:19:11.546Z,60553
+,raspberry-pi,gpio22,1,2026-04-24T18:19:13.173Z,95238
+,raspberry-pi,gpio22,0,2026-04-24T18:20:23.924Z,70736
+,raspberry-pi,gpio25,0,2026-04-24T18:20:44.732Z,300283
