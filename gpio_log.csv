@@ -71508,3 +71508,6 @@ test,device,signal,value,timestamp,delta
 ,raspberry-pi,gpio22,0,2026-04-24T23:22:52.403Z,300348
 ,raspberry-pi,gpio25,0,2026-04-24T23:25:05.554Z,300344
 ,raspberry-pi,gpio17,0,2026-04-24T23:25:15.570Z,300344
+,raspberry-pi,gpio22,0,2026-04-24T23:27:52.753Z,300350
+,raspberry-pi,gpio25,0,2026-04-24T23:30:05.901Z,300347
+,raspberry-pi,gpio17,0,2026-04-24T23:30:15.918Z,300348
