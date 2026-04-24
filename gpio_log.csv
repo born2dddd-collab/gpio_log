@@ -57817,3 +57817,11 @@ test,device,signal,value,timestamp,delta
 ,raspberry-pi,gpio17,0,2026-04-24T14:45:57.076Z,8663
 ,raspberry-pi,gpio22,0,2026-04-24T14:46:29.116Z,300731
 ,raspberry-pi,gpio25,1,2026-04-24T14:46:46.503Z,262335
+,raspberry-pi,gpio6,1,2026-04-24T14:49:11.612Z,198194
+,raspberry-pi,gpio6,0,2026-04-24T14:49:11.662Z,761
+,raspberry-pi,gpio6,1,2026-04-24T14:49:12.236Z,42
+,raspberry-pi,gpio6,0,2026-04-24T14:49:12.315Z,576
+,raspberry-pi,gpio17,1,2026-04-24T14:50:45.276Z,288235
+,raspberry-pi,gpio17,0,2026-04-24T14:50:50.790Z,5481
+,raspberry-pi,gpio22,0,2026-04-24T14:51:29.839Z,300723
+,raspberry-pi,gpio25,1,2026-04-24T14:51:46.864Z,300361
