@@ -60268,3 +60268,8 @@ test,device,signal,value,timestamp,delta
 ,raspberry-pi,gpio25,1,2026-04-24T17:07:00.195Z,300355
 ,raspberry-pi,gpio17,0,2026-04-24T17:08:07.272Z,300352
 ,raspberry-pi,gpio22,0,2026-04-24T17:10:42.444Z,300341
+,raspberry-pi,gpio25,1,2026-04-24T17:12:00.536Z,300341
+,raspberry-pi,gpio17,0,2026-04-24T17:13:07.615Z,300343
+,raspberry-pi,gpio25,0,2026-04-24T17:15:39.570Z,218253
+,raspberry-pi,gpio22,0,2026-04-24T17:15:42.580Z,300136
+,raspberry-pi,gpio17,1,2026-04-24T17:16:10.820Z,183203
