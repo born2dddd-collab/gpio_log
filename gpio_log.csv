@@ -80097,3 +80097,7 @@ test,device,signal,value,timestamp,delta
 ,raspberry-pi,gpio17,0,2026-04-25T05:11:23.629Z,300346
 ,raspberry-pi,gpio22,0,2026-04-25T05:12:01.680Z,300350
 ,raspberry-pi,gpio25,0,2026-04-25T05:16:16.966Z,300350
+,raspberry-pi,gpio17,0,2026-04-25T05:16:23.980Z,300351
+,raspberry-pi,gpio22,0,2026-04-25T05:17:02.029Z,300349
+,raspberry-pi,gpio25,0,2026-04-25T05:21:17.307Z,300341
+,raspberry-pi,gpio17,0,2026-04-25T05:21:24.322Z,300342
