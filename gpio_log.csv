@@ -80019,3 +80019,7 @@ test,device,signal,value,timestamp,delta
 ,raspberry-pi,gpio17,0,2026-04-25T03:01:14.640Z,300355
 ,raspberry-pi,gpio22,0,2026-04-25T03:01:52.690Z,300356
 ,raspberry-pi,gpio25,0,2026-04-25T03:06:07.970Z,300345
+,raspberry-pi,gpio17,0,2026-04-25T03:06:14.986Z,300345
+,raspberry-pi,gpio22,0,2026-04-25T03:06:53.035Z,300345
+,raspberry-pi,gpio25,0,2026-04-25T03:11:08.316Z,300346
+,raspberry-pi,gpio17,0,2026-04-25T03:11:15.330Z,300345
